@@ -1,12 +1,6 @@
 Hi, 
 
-I am a self taught developper based in Champs-sur-Marne (77, Paris area, France). 
-
-
-🌱 I’m currently learning ...
-  - React / UX
-  - Java / Spring/ Maven
-  - Clean code / Clean achitecture
+I am a developper based near Paris, France. Here you can find some personal project I'm working on.
 
 📫 How to reach me: 
   - Mail : arthurlormeau@gmail.com
